@@ -52,6 +52,9 @@ A comprehensive AI-powered fraud detection system that combines machine learning
                        │ - NFT Minting   │
                        │ - Audit Trail   │
                        └─────────────────┘
+
+<img width="1273" height="654" alt="image" src="https://github.com/user-attachments/assets/ba4db200-2cac-4c7d-a9ca-945e835aa246" />
+
 ```
 
 ## 🛠️ Installation
