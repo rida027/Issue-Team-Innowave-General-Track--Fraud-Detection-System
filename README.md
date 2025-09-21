@@ -1,7 +1,4 @@
-# Issue-Team-Innowave-General-Track--Fraud-Detection-System
-A comprehensive AI-powered fraud detection system that combines machine learning models (XGBoost + KMeans) with Cardano blockchain integration for immutable fraud alert recording.
-# AI Fraud Detection System with Cardano Blockchain Integration
-
+# Issue-Team-Innowave-General-Track--AI Fraud Detection System with Cardano Blockchain Integration
 A comprehensive AI-powered fraud detection system that combines machine learning models (XGBoost + KMeans) with Cardano blockchain integration for immutable fraud alert recording.
 
 ## 🚀 Features
